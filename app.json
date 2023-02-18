@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "hellworld",
+    "name": "easysum",
     "slug": "snack-5c07f688-4cb4-4071-a317-1d11ccd6a119",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.easyshell.snack5c07f6884cb44071a3171d11ccd6a119"
     },
     "web": {
       "favicon": "./assets/favicon.png"
